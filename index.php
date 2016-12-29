@@ -33,7 +33,7 @@
     
     <body>
     <div style="text-align: center;">
-        <h3>[ EST ]WP Cracker Coded By 504w</h3>
+        <h3>WP Cracker Coded By 504w</h3>
         <form action="<?php $_SERVER['PHP_SELF'] ?>" method="POST">
             <input type="text" name="username" placeholder=" Username" class="input" /> <br /><br />
             <input type="text" name="url" placeholder="Url" class="input"/><br /><br />
